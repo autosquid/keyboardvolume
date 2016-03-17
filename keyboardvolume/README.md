@@ -5,9 +5,9 @@ An Alfred workflow to control system volume.
 
 ------------------
 
-`v+` : VOLUME up by 10%
+`v+` / `v++`/ `v+++` : VOLUME up by 10%/20%/30%
 
-`v-` : VOLUME down by 10%
+`v-` / `v--` /`v---`: VOLUME down by 10%/20%/30%
 
 `v^` : maximum volume (100%)
 
