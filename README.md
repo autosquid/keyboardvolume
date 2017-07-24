@@ -1,7 +1,7 @@
 # keyboardvolume
 control Mac Volumen with Alfred
 
-An Alfred workflow to control system volume.
+An Alfred workflow to control system volume
 
 ------------------
 
